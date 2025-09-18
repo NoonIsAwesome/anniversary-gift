@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>限時小網頁</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="step1" class="card">
+    <h1>登入</h1>
+    <label>選擇姓名：
+      <select id="nameSelect">
+        <option value="">-- 請選擇 --</option>
+        <option>レイ</option>
+        <option>酥酥</option>
+        <option>千歌</option>
+        <option>ASHU</option>
+        <option>焦焦</option>
+        <option>林小布</option>
+        <option>冬瓜</option>
+        <option>藍天</option>
+        <option>MM</option>
+        <option>奴奴</option>
+        <option>信</option>
+        <option>涼咩</option>
+        <option>阿克</option>
+        <option>Pony</option>
+        <option>烤肉</option>
+      </select>
+    </label>
+    <label>輸入編號：
+      <input id="codeInput" type="password" inputmode="numeric" autocomplete="one-time-code" />
+    </label>
+    <button id="confirmBtn">確定</button>
+    <p id="msg"></p>
+  </main>
+
+  <section id="step2" class="card" hidden>
+    <h2>歡迎！</h2>
+    <video id="theVideo" controls playsinline style="max-width:100%; width:960px"></video>
+    <div style="margin-top:12px">
+      <a id="downloadLink" href="#" download>下載專屬音檔</a>
+    </div>
+    <button id="backBtn">返回</button>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
