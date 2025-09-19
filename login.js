@@ -1,6 +1,13 @@
-// === 把 generator.html 產生的 ENTRIES 整段貼到這裡（覆蓋這個空物件） ===
 const ENTRIES = {
-  // 先空著；請先用 generator.html 產出後貼上
+  "ASHU": {
+    "salt": "d/2mbZctPFw7jyYxItafYQ==",
+    "iv": "2yiveP+GcNdhcdnT",
+    "ct": "z0w27Z1At4/oOYm/Q5xDdMeMAIlsZRNCP+ZBRR9X1IH9KTVvAyfLTGiGMG3bGQg9V9zAoba+w84SR36pyNumi2Tm+t9UkikpXH7P+xf1BJTmSWZPP6jKi3zjse5l3Pter8w=",
+    "auth": {
+      "hSalt": "3Wh5OthA5Wayo6/YJJfCLg==",
+      "h": "d6msFIyO+kFTqAoCJSEFpOkEXBV535e5fNC5UpXbBmM="
+    }
+  }
 };
 
 // 影片來源（本地或雲端 URL）
