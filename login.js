@@ -1,137 +1,137 @@
 const ENTRIES = {
   "レイ": {
-    "salt": "iR5nwjnlaU++290SW6p0BA==",
-    "iv": "FpkGXhNk+BRmYQo4",
-    "ct": "yih23CPerMDvSVrqGfmrbF3/rjm7q5jfsoqjGqxcu/AZTi2FYEc9vQfifHhoHBmOkTJugf5ynPkkYaIo+Qy3uEETv43p/z95y9tjDKmEveK74gPATDwBYF2ZBgVBma+H",
+    "salt": "wTNL37pbw+eArELeMItLFQ==",
+    "iv": "mA/z4r3RDE4xD72P",
+    "ct": "uhKujUnX8NuRdn1AC8iSb9JEq3BXIAEij+hTK2t0mnNQKurd7cfSNFi+CLxkKT6pSoqsghhWGF9PF7zWuX3tpmMYkW2UyrxN4+3jF1YpdL2avW1oNdOggUZNaj0kFQBYKUdjyGy3KTKjEAB6IcFEexFT3Rias5jg7vb8DoF5Yg==",
     "auth": {
-      "hSalt": "NfQM+7zNhU+YvMqnal3Evw==",
-      "h": "EDc6aILobzb3fkcSF5RQ0ylCLYG9FVsDaoD7lJsBESk="
+      "hSalt": "Hqposwb+RckeCOqKfJIBWA==",
+      "h": "EE4dISmX6OtyOenIjgnORGU7yo/KC/OCzdk0CqgUrcg="
     }
   },
   "酥酥": {
-    "salt": "2TXQD/BGzdEs7R+GLgSAMw==",
-    "iv": "W63bhDLz1iCdhiSC",
-    "ct": "gLt93sigPiMzKQPmdkK21d4FFhNdlSoxcQhe2v+tnd0Q/3Y3OvjxYfPPfx10ZaV5iosQo1VyORsJojNe4VfUGrk/EpJXS+Kegs2ktfEUtYVb0x47n5YpWvQfUa75tQ7i",
+    "salt": "bO5f4P5tRKVW8cxvQW6jdg==",
+    "iv": "EtSPuv+KNsOPXM08",
+    "ct": "OlRIbBde3y6x/y5B+dHdefEB2StUyJ4PlMX60+KlD+T9thBFmxlQTOHOHxjOIGIDMMV8NA9+FG4+wG9czT4l2Hs5vvLkov66TdMyBhMbhfD/6vR5k3DFjZYjrBRT2HO6dJtsILwOEEPX3AkfZ29GNPQCQxq45kdy9AzGAowimA==",
     "auth": {
-      "hSalt": "WABSAudR1blEhU9a9M0UNA==",
-      "h": "ywfMjOeWjAZ0GWDgSHdnp0VEuROlVA0UHYlNyMHcdWc="
+      "hSalt": "fDlLpogModOlZ9FWY6guug==",
+      "h": "540RAO2/kAQNLDZMlltaK3XiUJtUvYQLn6PpI36XIh4="
     }
   },
   "千歌": {
-    "salt": "ZJyvlo92UIErxyAfSidRSw==",
-    "iv": "7/ZzcAPyyN/Zfxgi",
-    "ct": "MZmHkPfeOtNy7Dkjul7c+3+nlYcnRasTbI4gngMrHfSEHUilAQqvswkvtZsaLlfxR9nBMFpDXH8gD9Lt39YIuwK8nKdXtzztftlQa+Edjw2D/LN3ZyM0vL+/KDyudfxm",
+    "salt": "cpSoiD/J8rOwBy/aIbi5LQ==",
+    "iv": "8PqkgPgEsUi+cOXy",
+    "ct": "I8bF3y0GdAjK/UPQSeo0n6j5rtmbbOLhcLkcekI3jOubibWR2vm0f8P/EG1pHXYz/pxPN3/BUOgxXXoSNPMGkPhDFHD5BG339GrW1Iqa30HyvjczjymBM2vAX/+AxKQS9ln2wsvLefM/ZT6DXm0W9lB8d7LIdZ+YV3PnZt6SMQ==",
     "auth": {
-      "hSalt": "8AKRPhDqHcD8kXV7s5Romg==",
-      "h": "pkVa2/0n8ws7ilH5YIUXQYkO9cJrfp/o7rWB2Qjj2pA="
+      "hSalt": "i8GLMF6AyghuS7YFxOX+2Q==",
+      "h": "B7JRoOP2PXq0YIxQ6mf174YoW9Ok9xfJxWHPLwkEnuI="
     }
   },
   "ASHU": {
-    "salt": "nxrGKJQXwdfpA6XwLSGyBQ==",
-    "iv": "a5Z5dthn02FfnuH1",
-    "ct": "QjpH7x7AemARZ885NHZXU5mewyb8VQjCABCfW8jKx4VqInkiq3u7ObBHt+U8bz0zLZgSkJnM9F7KBb3achr1LzKWAQlLPO8PCnomCD2SvUr8wzvoKw0q3yNgl1mOLrXm",
+    "salt": "ApHj+siDe4XlJoQeX3Wcag==",
+    "iv": "0l7SrLwfj3RMXaz2",
+    "ct": "9gtVQAdJsRI/h0KgrFOnF8lz1Jsd5Bm71DIA8iAchdLWHKbt8XIBnZ6edzfSKHj2sjxi27J0F7bfQcVsbzpNjg4hLIYo8+rOTgM2UDhSokcf+BicNqr6ADVKbR8jBOeVC/cvcDMbbKzNc8MVew3W4H9mnRHnM7oj67uiTmIMpP5g77A=",
     "auth": {
-      "hSalt": "cC/mBWo4KdWNvkV+oeehhw==",
-      "h": "GjdHQV27Yk8w0u7zD+dTzZBHUH3VnC4yBgHRCty8ZUw="
+      "hSalt": "iRoZKIZ3cNGGq2ybrrVVog==",
+      "h": "2V1cPCYI6QZuuhLf+ko3tXvCqkrfuq+L7FY2VNwfpNc="
     }
   },
   "焦焦": {
-    "salt": "2heJrfTsLFa6D7F7Z8Rcew==",
-    "iv": "hgHFxaNyFIb+xBHT",
-    "ct": "WWMVakGuuQcMRcqdZiNkvI+FZ6Y6ENBNJCQ/g/479gPT9QK65fDXmfRHzRWvBgpBMATAEosHdnpgN4riyq/Up2vzitzK0cJbd8QyHi1fHZj5f4HX6fKOdPnemZn3tVao",
+    "salt": "kKxa0Z6eQlJ9LhIz2ijNGg==",
+    "iv": "GcAMvYohd+9mxE8u",
+    "ct": "RNJPH9sLjNs9E7N/fcQDHF13ytdOeAP4FZYM3kxs1HsBJOrwOr8lVQ6R2Gv9h70zdjlPdKw/wUc3yE5BGSOpHR5XD7WzEUiSp0sP7zyKwCbIE6GA1qeVQWj9y2C4jmrd6UX3KYNvw2eW6nQv4cp/wsiKXNohQGJnJlkEyUYnWw==",
     "auth": {
-      "hSalt": "1bo0T5Am7aaV8ookzGeubQ==",
-      "h": "y6p2gjwJN0MCx29Vh6jTk8ow9f0768jrCCLX7+Bn8/g="
+      "hSalt": "REZGpvP5qvlTA0hihdBF0A==",
+      "h": "ot5jJyV5YrRP9xbpljEe6SpuBShBzvU3pHIr2sCJYyo="
     }
   },
   "林小布": {
-    "salt": "WUYlBrD5Yw1fRFSvtbzj6g==",
-    "iv": "NnhzZMJKzDahJzVr",
-    "ct": "9akY6cBeHoed5L3oIpEA/LFT5hAecYH6gDNDtX0Tc0NhyZmxRLxIotC+Lp83A0BKxu8zrgKR2hiKRuIj7fSpcD11dd4FVRWFSCqlMwrxXtJKWq4AmnuFiAIeNeBeGJHA",
+    "salt": "kfeNpYpEMhHUONEutKNR+w==",
+    "iv": "Ve/Xnv4zx9pOQkJ6",
+    "ct": "uPiNWAeqnmiq7nQRz7gw3xfUBKoRwchQ86CsdxP4QZSJCmHHZwBKzXBspOkYkLIdIBC9sX5aJthj0UmmhXsq8eDE+3vsIVuD42A0ZqOCmW4rx1JTbEy7Yx0cc9xFHFiMdp+Zaxa5KB/CpDmUhVsh2EWbVXRo6ngpMHhvEW72nA==",
     "auth": {
-      "hSalt": "ziu7NNBBF1YRk5DNKr51og==",
-      "h": "lCwGGK1f7cE17H1RkfqMpuaCUuMsmASh6sezhzzoKsE="
+      "hSalt": "OGoYcfw5rW0MOa/zIG6e3Q==",
+      "h": "0mi7q9rmOOv65ANqQpKVzGIP37C8/04T5suCg6NQ6e8="
     }
   },
   "冬瓜": {
-    "salt": "bPiHobgEvM6TWOiZSX+pNw==",
-    "iv": "ze21X9zLEtoZaf8K",
-    "ct": "5F36rcRP6VnTQ620kCJV4F8QZb2/o1bgFTnecEd48pRV/EC6KqNECHMdTuKHmS4A32j5x0TbXNuApeIIdgq5/uFNyzwszYub+5+aZGwITzW19pNJEQwrswvB91LzHwv+",
+    "salt": "HoZNwPa6o9+Sa9BTWaKs7w==",
+    "iv": "mh6VmMEp96XlKDEE",
+    "ct": "xTk1hJzlNlji/UJmu2sOQcvA0xzdRmDKX9P/X3o57VJqxRHrQNpt87ODOU743L6QcNfCvlgno9kKLcGRcayxf9MIs4tJU/u4jKRY6f39NTUX0C7g5AP83HJ+NZFa/lPsVypRky786/ynmZ5ioY2Q6EmCu6An4XSypU2CmKU/9Q==",
     "auth": {
-      "hSalt": "GosyviIlIanWvWQy4ReDqw==",
-      "h": "HoYs4rjOKUOyk7cSpH1VYs7lb5qMP4TO3QPDC1aBIBE="
+      "hSalt": "vtKLtUHANhNeweh4ovP3RQ==",
+      "h": "dpOouXwzzjhiqgkYuTtruLxbKg2t1gGqfF0mz3bbYV0="
     }
   },
   "藍天": {
-    "salt": "6Uikt7aWOUocjO6PcU3e/w==",
-    "iv": "LKVDyIFE79bGpj0j",
-    "ct": "z4vCP+D5x1IyuoMmk2DbUUSwXvFcL8MpPph278ZmIExODMg4JNBgRSmI9f/CUkuuo8Co4xYDxubimPEPMAP0yEZt7bHZp/sPQynh8iRgrXsCXLyAJoaStln+Ph0vHpE2",
+    "salt": "vnWf/gBMflwIFjBxs/xHcQ==",
+    "iv": "oJEQjrqawOrRf79O",
+    "ct": "mJ6Dzu7sEc9k8v5Bkj1dfbH2yhJhfzYfM8/mGf1hM1NK0+G1+PI/ZbVDZUej5rvPQH8y8LfLrFOO2bE5xMyG4l8mG2usLKGkAsl+aUponXObz6qiAl7058wf99Fuglg6oN2E/04FggZfMLigsvoWJH7R9IxeXAlfvX6QRRkEjA==",
     "auth": {
-      "hSalt": "6o5zaEULnG69XyHQja8d5g==",
-      "h": "w4CRqF2OpisRsL9uWD2MMKQvEnyg6BgxRQ2GL/cTSN0="
+      "hSalt": "iC40FlgN6p+cMChf0YrXbA==",
+      "h": "iSlV5fkbpmQBZKljXRhWSn7GFhnKzp8Fi0gwI/nIGD4="
     }
   },
   "MM": {
-    "salt": "6CuAWy/kf6qtLBdV6mXn+g==",
-    "iv": "zT4r46AUqFJu+8Mk",
-    "ct": "qfKGcwU8rPduVTf1RjaF9i9RbM5X0nwgpUcP6xdMWnQgUB9Z+i6OS9m6PxWNuO9HT5k/NuFhXU1VriIBViAwxZEBMfDS83uziel7We/NufoxSR/Lclg2a63lsRYoqA/+",
+    "salt": "PZMhLUg9vMITPUmzyjICvQ==",
+    "iv": "m4sZVAaxGPfDea4B",
+    "ct": "rGNydCYyBFe5qry0VQuHdqCd/f+kP/wnm4hPAfWYpsR6yHjZkL6TzvV2pD0wBeRYSISJ93yHKkR1B4dBlJYP+iAZ19sVphSNiTguShs3JDG/HpInxIEIRKHnWts6dI+FjItkEZhW+QLhJBEK7Ol2Sbn0/Nn5xQWiMI4vbB3l73i/",
     "auth": {
-      "hSalt": "ldyzpvKDr6pxNi387J2Zpw==",
-      "h": "ihawk4TwcGfr+3KtzfuJnIAs7UxP2VSBjRW1f7nBZoM="
+      "hSalt": "61BUKVYlUrJroDvz27UoMQ==",
+      "h": "AMTd28lJoyDTmS+acWATBZql0Wf0jlQF8JH3rzB3Gus="
     }
   },
   "奴奴": {
-    "salt": "hE9wFAw6w5jofiVlGHYC8w==",
-    "iv": "Uvd6JTCmWbhuGGeo",
-    "ct": "6CcSDYH7RHZGQXt9WSQiM3wcEuIrgxvK/oEvoZ5Uj/jOS+0wobUl5wYbaFvTsaLMR1tKGLaBaQ1+vdYN09Cwx/FdS6ETKHb4E2BOMDVG+rJem7dvry8pvGeScgykwMe3",
+    "salt": "sEHO3irxBbKiRjXyqRw9Tw==",
+    "iv": "832xelQkeA+iM1lw",
+    "ct": "nfHOiB6trWspoTceDVAjawutvqVBZ07fyBoMhVLwE4Nsm+U+m3Es4mtny8MEl72hDREMOLmu2UhpyWlZVxWgG0rH8maRWRFJvyj8fNk5kXGbNHmB0PnaKhtfEroSGUZCYNeuXBrjD4dsI2zftEQ2j5G+IQeOx5K34d7bQ9quOQ==",
     "auth": {
-      "hSalt": "bOgMLQKA4RNmJyt5XsvMrw==",
-      "h": "0TK3O6gzksHTGGXZNmLMIvCJjWZiyOfQvAoy9BnQ860="
+      "hSalt": "EdoGSbLjHSACmLg25Za84A==",
+      "h": "mbcwRQ8z6DP2RgPD/YIC2+nfmH5wlrnGcGVwS0brnaU="
     }
   },
   "信": {
-    "salt": "OCQX8Ho3a7Jq8hR8ub+3Qg==",
-    "iv": "4au5evmh8e3wdvdL",
-    "ct": "V0l/DT6uGSm7RWDbgPDMaqoC2RNtG7rRIFeORRkLPkpLTVR5myOwTEtQfMFwGz0EXE5m69F3v+1F2UeDWqP6Dr/Rjv9arq3sXMV47uk7iYD1yFhzxuavOCdQWFqqNn+l",
+    "salt": "GoMY2m5Z/azDLOM70Ky8kw==",
+    "iv": "4RmxK+Kqw+so/iZf",
+    "ct": "KLwnYY9BXhzUuHfSc+kx5ZbIWGccQlZAPtnGKvP8KTHWN1tZ7CWCoo8Osh/j2c1u+/YugW7abVKg8HjJz6vU+mjamORnpFmmSMRjQ4rxw4vLuoVkM0FS6aHdfl9GPTjPplRpAyc0dDX6o8XLtTNiRZtqbP7y6ORQAJpcJXKSuA==",
     "auth": {
-      "hSalt": "OcYnJo2NMvoaxqp2rMULdw==",
-      "h": "pqlbikkt0EMttSGhOKq4Hvukn+R49ZNOl19qx5at1TA="
+      "hSalt": "3FyOndjhrUn1R9wR4koS0Q==",
+      "h": "h5hKUce7xWgTd7RQdPzx2gc/ADMVwd0MQkzKocGVmlQ="
     }
   },
   "涼咩": {
-    "salt": "/7JxVenfosUuWGEtL2h6CA==",
-    "iv": "Pl5dXE8ygJ7JoclL",
-    "ct": "R7v9jjxuLiGDiFYQGUTQ5zvYLlXUIQ3ApnGF/wSpDUbL36FfTEAxADUuX6T02RRaAChMvjP+MUgnUSxKqNf5y7h/F4gU6s+gq4zb0WYfv92HBBUygw/oIWtWZzesWo1w",
+    "salt": "3WVqWJ/hxKmrCYkk63PZNA==",
+    "iv": "UEU9Z3tS0Wq452jX",
+    "ct": "G5/kUuSREI8TJ8r0aZiG/9smA5Nbmd9cPzKtl0Je7paoGUExaJ3m0hcfI12DA83WsZVqB3aHSld8Np4oVjj48rGtcD7sgbqBGBcPG9jiVJdv3/kCJLRcvtVrtsqgtvWPRIr9fvllWo+QMGwwMirEpe74fGTdgwqfX+9YrwhLUQ==",
     "auth": {
-      "hSalt": "oVaHa+QS/hjtev6So22jGA==",
-      "h": "PRfylXtdMfhL/CDPfHj/VZvgzOd2QtXwG2h1OvRSM4E="
+      "hSalt": "8VpYEraGaaRuWwEnG0plEg==",
+      "h": "etDoLbRsdNpWtLXvzpZaM+xe9ekIVKOSUpl7HC5BLNg="
     }
   },
   "阿克": {
-    "salt": "NYTZf/HGSIHdzgzxueLfHQ==",
-    "iv": "gT7hxXg0gS99dPSI",
-    "ct": "eM0IT5i7cnw0tl9w/9OdF+2cxLpHLHva8Za7K2dNxr0LweC4Bw1AgcOe1n/fodU9QwK5ud5+hFV0J3za3lT+i4GdO2xGs2cR5nSnb3iNxC395dUaBcp8sr9YIARDHcRH",
+    "salt": "eW/IwE6OA8oMGT4EnPax5g==",
+    "iv": "DSdNf4JNrLjm0wVW",
+    "ct": "bf7hzom6FprDf1vMfLerhGpBcdxjYWUuoWgnb2Ih1iqFzCrq253mp61mo7SOXgAucswJ2MPjA5PadDHZUPNYwyaxQVB25SIbP4q57DDtq0AsTRHCSQq34/33He60hVEKScpUqAJR10husH38B9kErUxPZKhPnW8WBd99ueWH8g==",
     "auth": {
-      "hSalt": "6/llQWC18jCXzJ2thTPNiQ==",
-      "h": "dfrKber9M2Ka03a6A3VE4ZGDTM5JNbIYUgtlHZtGSFs="
+      "hSalt": "GDn/4yJtiZRmi7792f+H+g==",
+      "h": "tsfWwsZq5ERnn54CA4JTV2f0ETXoyeCpRKn0NmrUXJ0="
     }
   },
   "Pony": {
-    "salt": "HTy5Js8xm2W2oKin/MIK8g==",
-    "iv": "Y6oUhNebCxtJoSA3",
-    "ct": "Z9xFbTkxtUfHD61GQWHM2SmGVOBfSWzADbZ5X/SugGEvzd8zb5qBN5cBR97uAcm/ED+qtApL/enAli2OxZ8tog1YPaucFwjA/zqPWRGkrxDcseYDdpbY9bg8F2C9fA7F",
+    "salt": "f+lTQG0CNwD0z5/L70+NBw==",
+    "iv": "6BimlCDbkaglNOYJ",
+    "ct": "W0TPjpfkqwvLsww/oKdGxhuLxB9WHnP/2GlYXnl/+xyBdPzZf8I9nkOJil7edoaCZXc97kmKXG49gUszc/lEoivZYOy0Ynoh8bQtboFDHzRwJb5N4culUIsMQCQdRebCVOIMB4+y2oOBIlRspCsMiDsi8Tr6TBiGkthWmtmHZfupVHA=",
     "auth": {
-      "hSalt": "RuOYhWR0a3mCKQNIvqYJ3Q==",
-      "h": "UAYz6DqgNbdcD526uWeJlJLyCxCP8zxYSiEV2fr1tWI="
+      "hSalt": "yoQ+Iof0nepqQ+ZSPUVr5A==",
+      "h": "0oza+Owqi+MgTsldNCvyfAURjBQJnCqVH0tCu9apqkk="
     }
   },
   "烤肉": {
-    "salt": "uPr1QZOB9Wcncn/B9WaXHA==",
-    "iv": "Kwk+FgKsZ6g88kG7",
-    "ct": "8KFDy3lmy0UVTHbWLcfUxrK2rAHOLGM5u8W44uRmjazliy+W0gb8pFuDItlsBLq2jEMygkpsyeouO1OFrAPtInDY+fxsAZtEwuoPs/y8V2rwNLQU0VmskN+yGtT/jTCN",
+    "salt": "JLM54YJ8KdGuU1xcOH5L4Q==",
+    "iv": "1vj2EbrVAdN9PiBH",
+    "ct": "5Lq7VZzcdzeLO3OW9rn/lWZkttIj+ew3wEYQgzR6Nrk69A2iv/rncLqqSHEFbfwcqQmYw88XE5E/jelqwA/NCxrbpxpyo9NPxClxWNdS4gcal+D1wwWlJo6DAZPq8OwptejDIASD1j/nwtv2V6SpsOOT5CWsyWIe27r/zh77/g==",
     "auth": {
-      "hSalt": "Fnmqs56qAO0qwKJS34HlpA==",
-      "h": "c472HcQd10C/jLeKfCzr27iSA5B43fiqS5+9vLnlYoI="
+      "hSalt": "gM7O2CEJ+7BEE209R4+30g==",
+      "h": "kRPIa9fgQnD9ZBO9MRdpfLxA4n5xz0uzYcXpbN/a5Y0="
     }
   }
 };
@@ -212,4 +212,5 @@ confirmBtn.addEventListener("click", async () => {
     msg.textContent = "驗證失敗，請再試一次。";
   }
 });
+
 
