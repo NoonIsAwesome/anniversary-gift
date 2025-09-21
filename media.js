@@ -45,7 +45,7 @@ if(!name || !audioUrl || !videoSrc){
   downloadLink.setAttribute("download", guessName);
 
   if (polaroidCaption) {
-    polaroidCaption.textContent = `To："${name}"`;
+    polaroidCaption.textContent = `To：${name}`;
   }
 }
 
@@ -53,4 +53,5 @@ logoutBtn.addEventListener("click", () => {
   sessionStorage.clear();
   window.location.href = "index.html";
 });
+
 
