@@ -43,9 +43,14 @@ if(!name || !audioUrl || !videoSrc){
   // 嘗試指定檔名（跨網域有時會被忽略，但無害）
   const guessName = name ? `${name}.wav` : "audio.wav";
   downloadLink.setAttribute("download", guessName);
+
+  if (polaroidCaption) {
+    polaroidCaption.textContent = `To："${name}"`;
+  }
 }
 
 logoutBtn.addEventListener("click", () => {
   sessionStorage.clear();
   window.location.href = "index.html";
 });
+
