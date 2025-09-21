@@ -63,7 +63,8 @@ button:hover{ filter:brightness(1.1) }
   left: 0;
   width: 100%;
   text-align: center;
-  font-family: 'Comic Sans MS','Marker Felt',cursive;
+  font-family: 'Indie Flower', 'jf-openhuninn-1.1', 'Noto Sans TC', cursive;
   font-size: 18px;
   color: #333;
 }
+
