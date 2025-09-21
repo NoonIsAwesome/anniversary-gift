@@ -124,15 +124,6 @@ const ENTRIES = {
       "hSalt": "yoQ+Iof0nepqQ+ZSPUVr5A==",
       "h": "0oza+Owqi+MgTsldNCvyfAURjBQJnCqVH0tCu9apqkk="
     }
-  },
-  "烤肉": {
-    "salt": "JLM54YJ8KdGuU1xcOH5L4Q==",
-    "iv": "1vj2EbrVAdN9PiBH",
-    "ct": "5Lq7VZzcdzeLO3OW9rn/lWZkttIj+ew3wEYQgzR6Nrk69A2iv/rncLqqSHEFbfwcqQmYw88XE5E/jelqwA/NCxrbpxpyo9NPxClxWNdS4gcal+D1wwWlJo6DAZPq8OwptejDIASD1j/nwtv2V6SpsOOT5CWsyWIe27r/zh77/g==",
-    "auth": {
-      "hSalt": "gM7O2CEJ+7BEE209R4+30g==",
-      "h": "kRPIa9fgQnD9ZBO9MRdpfLxA4n5xz0uzYcXpbN/a5Y0="
-    }
   }
 };
 
@@ -212,5 +203,6 @@ confirmBtn.addEventListener("click", async () => {
     msg.textContent = "驗證失敗，請再試一次。";
   }
 });
+
 
 
